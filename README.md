@@ -19,9 +19,9 @@
 
 **Pixel Tool** - Brush with maximum hardness set to ensure aliased edges.
 
-**Clone** - Paints texture based on a target area of the texture. Mostly used to quickly blend texture seams.
+**Clone Stamp** - Paints texture based on a target area of the texture. Mostly used to quickly blend texture seams.
 
-**Blur** - Softens edges.
+**Add Water** - Softens edges.
 
 **Smudge** - Blends textures.
 
