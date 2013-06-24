@@ -1,7 +1,4 @@
-My Texture Paint brushes for Blender
-
-
-#Installation
+## Installation
 
 - In Blender go File->Append
 - Navigate to the xrg_brushes.blend file
@@ -10,3 +7,40 @@ My Texture Paint brushes for Blender
 - Shift Click all the brushes you wish to import (Skip the one that says don't import)
 - Enjoy
 
+### Texture Paint Mode
+
+**Standard** - Basic hard edged brush intended to be used either by itself or in
+conjunction with an alpha brush texture.
+
+**Soft Brush** - A soft edged airbrush intended to lightly build up colors.
+
+**Glow** - A soft airbrush with it's color mode set to add. Helpful for painting
+highlights.
+
+**Spray** - A hard edged brush with a very high spacing set. In conjunction with
+an alpha texture it is useful for scattering texture since it doesn't smear like
+a normal brush does.
+
+**Pixel Tool** - Brush with maximum hardness set to ensure aliased edges.
+Intended for use for things such as Minecraft Textures, or Retro Playstation
+style models.
+
+**Clone** - Paints texture based on a target area of the texture. Mostly used to
+quickly blend texture seams.
+
+**Blur** - Softens edges.
+
+**Smudge** - Blends textures.
+
+**Eraser Hard** - Erases out the alpha channel on a texture using a hard edged
+brush.
+
+**Eraser Soft** - A very soft and low pressure brush intended to fade out the
+alpha channel.
+
+
+### Weight Paint Mode
+
+**Cool** - Decreases vertex weight regardless of weight setting.
+
+**Heat** - Increases vertex weight regardless of weight setting.
